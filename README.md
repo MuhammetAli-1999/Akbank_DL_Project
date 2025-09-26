@@ -16,11 +16,11 @@ Malaria hücre görüntüleri insan kanı hücrelerinin ince kesitleridir. Bu g�
 ## Proje Hakkinda 
 Bu proje, Convolutional Neural Network (CNN) kullanarak görüntü sınıflandırma işlemi gerçekleştirmektedir. TensorFlow/Keras kütüphaneleri ile derin öğrenme modeli oluşturulmuş ve eğitim süreci detaylandırılmıştır.
 
-##Ozellikler 
+## Ozellikler 
 - Veri ön işleme ve görselleştirme
 - CNN modeli kurulumu (Conv2D, MaxPooling2D, Dense, Dropout katmanları)
 - Model eğitimi, doğrulama ve test sonuçlarının analizi
 - Eğitim sürecinde erken durdurma (EarlyStopping) ve doğruluk/başarı grafiklerinin çizilmesi
 
-##Sonuç
+## Sonuç
 Eğitim sonunda model, test verisi üzerinde belirli bir doğruluk oranı ile görüntüleri başarıyla sınıflandırmaktadır. Grafikler üzerinden modelin performansı izlenebilir.
