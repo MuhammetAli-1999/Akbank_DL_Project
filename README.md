@@ -24,3 +24,9 @@ Bu proje, Convolutional Neural Network (CNN) kullanarak görüntü sınıflandı
 
 ## Sonuç
 Eğitim sonunda model, test verisi üzerinde belirli bir doğruluk oranı ile görüntüleri başarıyla sınıflandırmaktadır. Grafikler üzerinden modelin performansı izlenebilir.
+
+## Link
+Kaggle NoteBook : https://www.kaggle.com/code/muhammetalibegenjov/malaria-cell-images-i-cnn
+Kaggle DataSets: https://www.kaggle.com/datasets/iarunava/cell-images-for-detecting-malaria
+
+
